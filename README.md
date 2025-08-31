@@ -15,9 +15,15 @@ We present a new method for structural sequence analysis grounded in **Algorithm
 
 ---
 
+## 🎯 Keywords | 关键词
+
+Algorithmic Information Theory (AIT) ｜ NLP | Normalized Compression Distance (NCD) ｜ Compression ｜ Ladderpath ｜ Text Classification ｜ Hierarchical Structure
+
+---
+
 ## 🎯 Key Contributions | 主要贡献
-- 参与方法设计与建模，负责将LP算法与分类任务结合，构建完整实验流程。
-- 设计并实现三种基于结构的「序列相似度度量方法」，结合KNN进行文本分类，验证模型在OOD与few-shot场景的泛化性能。
+- 作为第一作者，参与方法设计与建模，负责将LP算法与分类任务结合，构建完整实验流程。
+- 设计并实现三种基于结构的**序列相似度度量方法**，结合KNN进行文本分类，验证模型在OOD与few-shot场景的泛化性能。
 - 利用python处理200W+条文本数据，涉及11个多场景的NLP数据集，进行实验验证与对比分析，并在多个文本分类数据集上与主流大模型BERT、CNN等进行系统评估。
 - 撰写论文摘要与实验部分，推动成果在学术场景中的展示
  

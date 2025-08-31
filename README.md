@@ -17,7 +17,7 @@ We present a new method for structural sequence analysis grounded in **Algorithm
 
 ## 🎯 Keywords | 关键词
 
-Algorithmic Information Theory (AIT) ｜ NLP | Normalized Compression Distance (NCD) ｜ Compression ｜ Ladderpath ｜ Text Classification ｜ Hierarchical Structure
+Algorithmic Information Theory (AIT) ｜ Normalized Compression Distance (NCD) ｜ Compression ｜ Ladderpath ｜ Text Classification ｜ Hierarchical Structure
 
 ---
 
